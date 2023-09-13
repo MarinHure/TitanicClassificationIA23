@@ -17,3 +17,6 @@ Implemented Solutions:
 Handling Missing Values: We imputed missing values in Age using median value. For Cabin, given the high amount of missing values, we considered either dropping it or extracting relevant information from it. For Embarked, we replaced missing values with the most common port.
 Outlier Management: We employed statistical methods to identify and handle outliers, ensuring they did not skew our model.
 Categorical Data Transformation: We transformed categorical columns into numeric values using encoding techniques, like one-hot encoding, so they could be utilized in our models.
+
+COLAB
+https://colab.research.google.com/drive/1RB4zQy-8G05bwDkQcF8O46IElsJO3gJS?usp=sharing
